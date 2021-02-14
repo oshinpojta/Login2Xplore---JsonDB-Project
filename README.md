@@ -15,6 +15,37 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
     -This project uses JsonPoweredDB for the backend usage of saving all users data in the Json-format.
     -Being the most efficient database, the time taken to POST & GET user-data from the database is almost null.
     -Unlike SQL and relational databases, this JsonPoweredDB feels user and developer friendly.
+    
+## *Easiest Syntax Usage :*
+    
+    // GET - Query
+    
+    {
+    "token": "2134770734|1905622745244281054|2134771272",
+    "cmd": "GET",
+    "dbName": "Company",
+    "rel": "Employee",
+    "jsonStr":{
+        "empName": "Oshin Pojta"
+        }
+    }
+    
+    // INSERT - Query
+    
+    {
+      "token" : "90935402|-31948797858293566|90931787",
+      "cmd" : "PUT",
+      "dbName" : "Emloyee",
+      "rel" : "Emp-rel",
+      "jsonStr" : {
+        "name" : "Oshin Pojta",
+        "email" : "Sujanian785@gmail.com",
+        "mobile" : 7018516835,
+        "address" : "Solan"
+            }
+    }
+    
+*If there is no Database named - 'Employee', It will automatically create Database with the name without forcing developers to write code or throwing hundreds of errors.*
 
 ## *Benefits of using JsonPowerDB*
     -Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
