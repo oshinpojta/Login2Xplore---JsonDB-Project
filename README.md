@@ -65,5 +65,6 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
 
 ## Sources
 
-*CodePen.io , Youtube.com, BootStrap and jQuery for Frontend 
-Login2Xplore Documentation link for Miscellaneous Query-Reference : http://login2explore.com/jpdb/index.html#introduction-jpdb *
+*CodePen.io , Youtube.com, BootStrap and jQuery for Frontend.*
+
+*Login2Xplore Documentation link for Backend & Miscellaneous Query-Reference* : http://login2explore.com/jpdb/index.html#introduction-jpdb
