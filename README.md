@@ -1,7 +1,7 @@
 # *Login2Xplore---JsonDB-Project*
 A small project to demonstrate the new technology - JsonDB.
 
-### *Warning !* ## 
+### :warning: *Warning !* ## 
 *Since the api uses Http-connection (and not Https) and all the webhosting servers only allow Https connections.
 So, This site faces the issue of sending and retrieving data. This issue will be resolved as soon the developers provide a secure-connection to API.
 Although the illustrations are provided on the complete process.
