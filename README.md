@@ -21,7 +21,7 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
     // GET - Query
     
     {
-    "token": "2134770734|1905622745244281054|2134771272",
+    "token": "2134770734|19056227XXXXX281054|2134XXXXXX",
     "cmd": "GET",
     "dbName": "Company",
     "rel": "Employee",
@@ -33,7 +33,7 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
     // INSERT - Query
     
     {
-      "token" : "90935402|-31948797858293566|90931787",
+      "token" : "90935402|-31948797XXXX293566|909XXXX",
       "cmd" : "PUT",
       "dbName" : "Emloyee",
       "rel" : "Emp-rel",
