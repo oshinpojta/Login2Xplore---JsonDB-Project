@@ -14,7 +14,7 @@ __Hosted Site link__  :  https://login2xplore-project.herokuapp.com/index.html
               to demonstrate the data sending & request handling over JsonPoweredDB-api for database management.
     -This project uses JsonPoweredDB for the backend usage of saving all users data in the Json-format.
     -Being the most efficient database, the time taken to POST & GET user-data from the database is almost null.
-    -Unlike SQL and realational databases, this JsonPoweredDB feels user and developer friendly.
+    -Unlike SQL and relational databases, this JsonPoweredDB feels user and developer friendly.
 
 ## *Benefits of using JsonPowerDB*
     -Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
